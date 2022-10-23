@@ -2,9 +2,9 @@
 
 ![kuchi kopi](kuchi.jpg)
 
-I can never remember whether it’s `start` or `open`. Or if strings need escaping.
+I can never remember whether it’s `start` or `open`or `whatever` to open a file in cmd/posh/git-bash.
 
-Now its just `ku`
+Now it’s just `ku`
 
 ## dependencies
 
@@ -13,7 +13,7 @@ Now its just `ku`
 ## install
 
 - compile
-- put ku.exe in PATH
+- put `ku.exe` in PATH
 
 ## do I need this
 
