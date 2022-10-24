@@ -2,18 +2,15 @@
 
 ![kuchi kopi](kuchi.jpg)
 
-I can never remember whether it’s `start` or `open`or `whatever` to open a file in cmd/posh/git-bash.
+Kuchi Kopi runs the file fed to it. That’s all.
 
-Now it’s just `ku`
+## why
 
-## dependencies
-
-- [AutoHotkey](https://www.autohotkey.com/)
+I wanted a generic makeprg for vim to open a file in its default program.
 
 ## install
 
-- compile
-- put `ku.exe` in PATH
+It’s a AutoHotkey script. Just compile it and drop the exe in PATH.
 
 ## do I need this
 
@@ -21,4 +18,4 @@ Proably not.
 
 ## weird name
 
-[Yes](https://bobs-burgers.fandom.com/wiki/Kuchi_Kopi). Had to call it something.
+Yes
