@@ -1,7 +1,5 @@
 ﻿#NoEnv
-; #Warn
-SendMode Input
-SetWorkingDir %A_ScriptDir%
+#ErrorStdOut
 
 app := A_Args[1]
 Run, %app%
