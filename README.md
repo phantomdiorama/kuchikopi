@@ -4,7 +4,7 @@ Kuchi Kopi runs the file fed to it. That’s all.
 
 ## why
 
-I wanted a generic makeprg for vim to open a file in its default program.
+I wanted a generic makeprg for vim to open a file in its default program. It works outside vim too.
 
 ## install
 
@@ -18,13 +18,13 @@ General use:
 ku path/to/file
 ```
 
-in Vim:
+in .vimrc:
 
 ```vim
 set makeprg=ku\ % 
 ```
 
-## do I need this
+## do you need this?
 
 Probably not.
 
