@@ -18,6 +18,12 @@ General use:
 ku path/to/file
 ```
 
+Paths with spaces need to be quoted
+
+```
+ku “path/to/file name”
+```
+
 in .vimrc:
 
 ```vim
